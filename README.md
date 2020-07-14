@@ -1,14 +1,14 @@
-1.module?
+1.module
 
 2.controller: set init state of $scope,add behavior to $scope;
 MVVM
-M:model->?
+M:model->model to store data
 V:View->html
-VM:->
+VM:->controler
 
-3.$scope?
+3.$scope-> current instance
 
-4.attributes,behind the scene
+4.attributes, behind the scene
 
 5.DI/Inversion of control
 
