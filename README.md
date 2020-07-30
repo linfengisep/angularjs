@@ -35,6 +35,11 @@ once the binding property is reflecting in view, its watcher is detached.
 .privder(),
 .config(), get called before any other services, factories, or controller is instantiated.
 
+10.directive
+directive scope belongs to the controller scope which wrapped outside of it.
+restrict: A for attribute like ng-repeat, E for element like <filter-top>
+=: two ways binding
+@: one ways binding, from parent to child
 
 
 
