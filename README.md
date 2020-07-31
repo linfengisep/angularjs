@@ -42,6 +42,7 @@ restrict: A for attribute like ng-repeat, E for element like <filter-top>
 @: one ways binding, from parent to child
 
 
+11.adding sth
 
 
 
