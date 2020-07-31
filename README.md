@@ -44,6 +44,8 @@ restrict: A for attribute like ng-repeat, E for element like <filter-top>
 
 11.adding sth
 
+12.updating item
+
 
 
 
