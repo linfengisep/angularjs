@@ -53,6 +53,8 @@ restrict: A for attribute like ng-repeat, E for element like <filter-top>
 
 17.continuing editing
 
+18.adding more info
+
 
 
 
