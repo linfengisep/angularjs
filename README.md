@@ -43,6 +43,8 @@ restrict: A for attribute like ng-repeat, E for element like <filter-top>
 
 11.commit first time
 
+12.commit second time
+
 
 
 
