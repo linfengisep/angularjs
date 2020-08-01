@@ -41,6 +41,8 @@ restrict: A for attribute like ng-repeat, E for element like <filter-top>
 =: two ways binding
 @: one ways binding, from parent to child
 
+11.commit first time
+
 
 
 
