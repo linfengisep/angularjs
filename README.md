@@ -47,6 +47,8 @@ restrict: A for attribute like ng-repeat, E for element like <filter-top>
 
 13.dernier commit
 
+14.ok, for cleaning working repo
+
 
 
 
