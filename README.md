@@ -49,8 +49,6 @@ restrict: A for attribute like ng-repeat, E for element like <filter-top>
 
 14.ok, for cleaning working repo
 
-15 nice
-
 16. good
 
 
